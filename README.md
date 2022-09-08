@@ -1,7 +1,7 @@
 ### Hi, I am Carol 👋
 
 - 🌱 I’m currently learning Python
-- 😄 Pronouns: Her/She
+- 😄 Pronouns: She/Her
 
 
 <div align="center">
